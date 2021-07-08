@@ -13,6 +13,8 @@ Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 ![image](https://user-images.githubusercontent.com/72650394/124960147-a58a6400-e039-11eb-86bf-19d4b1680769.png)
 ### Categories:
 ![image](https://user-images.githubusercontent.com/72650394/124960378-e4b8b500-e039-11eb-8088-1b32194b74d3.png)
+### News Display:
+![fcat](https://user-images.githubusercontent.com/72650394/124980432-fdcd6000-e051-11eb-9869-3d6d1d9358d6.gif)
 
 
 ## Where we get our Information from?
