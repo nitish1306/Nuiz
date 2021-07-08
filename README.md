@@ -14,7 +14,8 @@ Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 ### Categories:
 ![image](https://user-images.githubusercontent.com/72650394/124960378-e4b8b500-e039-11eb-8088-1b32194b74d3.png)
 ### News Display:
-![fcat](https://user-images.githubusercontent.com/72650394/124980432-fdcd6000-e051-11eb-9869-3d6d1d9358d6.gif)
+![fcatn](https://user-images.githubusercontent.com/72650394/124983922-37a06580-e056-11eb-962d-c395216a3fbf.gif)
+
 
 
 ## Where we get our Information from?
