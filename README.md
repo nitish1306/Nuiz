@@ -14,7 +14,8 @@ Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 ### Categories:
 ![image](https://user-images.githubusercontent.com/72650394/124960378-e4b8b500-e039-11eb-8088-1b32194b74d3.png)
 ### News Display:
-![fcatn](https://user-images.githubusercontent.com/72650394/124983922-37a06580-e056-11eb-962d-c395216a3fbf.gif)
+![f_h](https://user-images.githubusercontent.com/72650394/125023586-cfc13d80-e09c-11eb-820e-ab3409c1361f.gif)
+
 
 
 
