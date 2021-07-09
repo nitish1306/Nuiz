@@ -1,6 +1,9 @@
 # Nuiz
 
-Find Breaking Hot News from our website [NUIZ](https://nuiz.herokuapp.com/home).
+Discover hot updated news of different categories from our website!!<br />
+The UI makes you keep on reading on forever with its cool slide transitions!<br />
+
+Check it out : [NUIZ](https://nuiz.herokuapp.com/home).
 <br /><br />
 Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 
@@ -10,7 +13,7 @@ Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 * Top headlines of different Categories.
 * Attractive User Interface with clean animations between slides.
 ### Home Page:
-![image](https://user-images.githubusercontent.com/72650394/124960147-a58a6400-e039-11eb-86bf-19d4b1680769.png)
+![hom](https://user-images.githubusercontent.com/72650394/125025152-cab1bd80-e09f-11eb-9c33-5772135e391e.gif)
 ### Categories:
 ![image](https://user-images.githubusercontent.com/72650394/124960378-e4b8b500-e039-11eb-8088-1b32194b74d3.png)
 ### News Display:
@@ -18,10 +21,14 @@ Group Project by:  ***Nitish, Bharat, Dhiren and Naseer***.
 
 
 
-
 ## Where we get our Information from?
-API's are used to extract New and updated news in our websites.
+API's are used to extract New and updated news in our website.
+<br /><br />
+We have mainly used 3 API's:
+* NewsAPI
+* WeatherAPI
+* CovidAPI
 <br />
-<br />
+
 **Happy Reading**
 
